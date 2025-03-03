@@ -5,9 +5,7 @@ date: 2025-02-21
 lastUpdated: 2025-03-03
 author: Dev Verma
 category: Quantum Field Theory
-tags:
-  - "#physics"
-  - "#qft"
+tags: []
 comments: false
 interactive: false
 image: https://example.com/image.jpg
